@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecherepaha
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on interesting Projects
 - 📫 How to reach me email: beknazarserikbaev@gmail.com
 
 <!---
